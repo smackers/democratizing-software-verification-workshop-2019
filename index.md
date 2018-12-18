@@ -1,4 +1,3 @@
-## The Workshop on Democratizing Software Verification
 
 In the past decades we have witnessed major advances in the power of automated reasoning engines like Satisfiability Modulo Theories (SMT) and Horn clause solvers. As a consequence, there has been a renaissance of software verification based on this technology. Currently, there are a number of mature verifiers available coming both from academia and industry. However, despite these advances, the bar for newcomer researchers to contribute to this field is still very high. One of the main obstacles is the very large cost of development of a new software verifier from scratch. Hence, several groups have been independently working on implementing open software verification infrastructures, which would allow for easier prototyping of research ideas in this space, e.g., new algorithms for verifying relational or timing properties, thereby democratizing software verification.
 
