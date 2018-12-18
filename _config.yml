@@ -1,2 +1,5 @@
 title: The Workshop on Democratizing Software Verification
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+  
