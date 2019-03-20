@@ -7,7 +7,7 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 
 ## Organization
 
-This workshop will be colocated with the [31st International Conference on Computer-Aided Verification (CAV)][CAV], and chaired by principle developers of [SMACK] and [SeaHorn]:
+This workshop will be held on July 14, 2019, and colocated with the [31st International Conference on Computer-Aided Verification (CAV)][CAV] at the New York University (NYU) School of Law. The workshop is chaired by principle developers of [SMACK] and [SeaHorn]:
 
 * Michael Emmi, SRI International
 * Arie Gurfinkel, University of Waterloo
