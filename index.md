@@ -14,7 +14,15 @@ This workshop will be held on July 14, 2019, and colocated with the [31st Intern
 * Jorge Navas, SRI International
 * Zvonimir Rakamaric, University of Utah
 
-A list of invited speakers and call for participation will follow.
+## Invited Speakers
+
+The following speakers have accepted their invitations.
+
+* Kedar Namjoshi
+* Shuvendu Lahiri
+* Yakir Vizel
+
+A full list of invited speakers will appear soon.
 
 [SMACK]: http://smackers.github.io
 [SeaHorn]: https://seahorn.github.io
