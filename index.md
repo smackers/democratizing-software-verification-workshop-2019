@@ -5,6 +5,18 @@ This workshop aims to bring together the developers of open software verificatio
 
 As further discussion topics, we will solicit talks and feedback on benchmarking issues, reproducibility, input languages, and potential licence issues, all of which are important to have a viable software verification research ecosystem that can be leveraged by both industry and academia.
 
+## Invited Speakers
+
+The following speakers have accepted their invitations.
+
+* Kedar Namjoshi (Nokia Bell Labs)
+* Shuvendu Lahiri (Microsoft Research)
+* Yakir Vizel (Princeton University)
+* Stephen Siegel (University of Delaware)
+* Lewis Young (Secregen, Inc.)
+
+A full list of invited speakers will appear soon.
+
 ## Organization
 
 This workshop will be held on July 14, 2019, and colocated with the [31st International Conference on Computer-Aided Verification (CAV)][CAV] at the New York University (NYU) School of Law. The workshop is chaired by principle developers of [SMACK] and [SeaHorn]:
@@ -13,16 +25,6 @@ This workshop will be held on July 14, 2019, and colocated with the [31st Intern
 * Arie Gurfinkel, University of Waterloo
 * Jorge Navas, SRI International
 * Zvonimir Rakamaric, University of Utah
-
-## Invited Speakers
-
-The following speakers have accepted their invitations.
-
-* Kedar Namjoshi
-* Shuvendu Lahiri
-* Yakir Vizel
-
-A full list of invited speakers will appear soon.
 
 [SMACK]: http://smackers.github.io
 [SeaHorn]: https://seahorn.github.io
