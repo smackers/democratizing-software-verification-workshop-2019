@@ -9,11 +9,13 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 
 The following speakers have accepted their invitations.
 
-* Kedar Namjoshi (Nokia Bell Labs)
 * Shuvendu Lahiri (Microsoft Research)
-* Yakir Vizel (Princeton University)
+* Kedar Namjoshi (Nokia Bell Labs)
+* Subodh Sharma (IIT Delhi)
 * Stephen Siegel (University of Delaware)
-* Lewis Young (Secregen, Inc.)
+* Aaron Tomb (Galois)
+* Yakir Vizel (Princeton University)
+* Lewis Young (Secregen)
 
 A full list of invited speakers will appear soon.
 
