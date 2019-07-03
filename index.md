@@ -131,7 +131,7 @@ uses SeaHorn as a backend decision procedure.
 **Short bio:** Subodh Sharma is an Assistant Professor in the Department of
 Computer Science at IIT Delhi, India. Before joining IIT Delhi, he was a
 postdoctoral fellow at the University of Oxford in the systems verification
-group (working in Prof. Daniel Kroening’s group). He obtained his Ph.D. from
+group (working in Prof. Daniel Kroening's group). He obtained his Ph.D. from
 the University of Utah. His primary research interests lie in the verification
 of parallel and distributed systems.
 
