@@ -17,7 +17,7 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 | 11:50-12:30 | Shuvendu Lahiri (Microsoft Research): *Verified Program Merges: A Perfect Match for Program Verification?* |
 | 12:30-14:30 | Lunch   |
 | 14:30-15:10 | Yakir Vizel (Princeton University): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn* |
-| 15:10-15:50 | Subodh Sharma (IIT Delhi): *TBD*   |
+| 15:10-15:50 | Subodh Sharma (IIT Delhi): *Analysing Smart Contracts using SeaHorn* |
 | 16:00-16:30 | Coffee break |
 | 16:30-17:10 | Kedar Namjoshi (Nokia Bell Labs): *Designing Self-Certifying Compilers* |
 | 17:10-17:30 | Lewis Young (Secregen): *TBD* |
@@ -116,11 +116,24 @@ Prof. Orna Grumberg on SAT-based Model Checking. He has worked on developing
 Formal Verification algorithms for hardware and software verification at Intel,
 Jasper Design Automation, Cadence, and Mellanox.
 
-### Subodh Sharma (IIT Delhi)
+### Subodh Sharma (IIT Delhi): *Analysing Smart Contracts using SeaHorn*
 
-**Abstract:** TBD
+**Abstract:** Smart contracts are central to blockchain platforms and are a key
+enabler in multi-party interactions among mutually distrusting peers.
+Interestingly, smart contracts are immutable; thus, they are hard to patch for
+bugs once they are committed to a blockchain. The (in)famous DAO bug leading to
+losses worth around USD 50 million is a case in point. In this talk, I will
+begin by discussing some of the common bug patterns in smart contracts that
+open the door to potential exploitation. I will then present our experiences
+building a symbolic analysis framework (ZEUS) to discover these bugs, which
+uses SeaHorn as a backend decision procedure.
 
-**Short bio:** TBD
+**Short bio:** Subodh Sharma is an Assistant Professor in the Department of
+Computer Science at IIT Delhi, India. Before joining IIT Delhi, he was a
+postdoctoral fellow at the University of Oxford in the systems verification
+group (working in Prof. Daniel Kroening’s group). He obtained his Ph.D. from
+the University of Utah. His primary research interests lie in the verification
+of parallel and distributed systems.
 
 ### Kedar Namjoshi (Nokia Bell Labs): *Designing Self-Certifying Compilers*
 
