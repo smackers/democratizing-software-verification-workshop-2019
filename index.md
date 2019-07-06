@@ -20,7 +20,7 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 | 15:10-15:50 | Subodh Sharma (IIT Delhi): *Analysing Smart Contracts using SeaHorn* |
 | 16:00-16:30 | Coffee break |
 | 16:30-17:10 | Kedar Namjoshi (Nokia Bell Labs): *Designing Self-Certifying Compilers* |
-| 17:10-17:30 | Lewis Young (Secregen): *TBD* |
+| 17:10-17:30 | Lewis Young (Secregen): *Is Software Verification Technology Ready for Industry?* |
 | 17:30-18:00 | Discussion and Wrap-up |
 | 18:00-20:00 | Workshop Dinner |
 
@@ -198,11 +198,23 @@ include program semantics, specification logics, program verification, model
 checking, static program analysis, distributed computing, and programming
 methodology.
 
-### Lewis Young (Secregen)
+### Lewis Young (Secregen): *Is Software Verification Technology Ready for Industry?*
 
-**Abstract:** TBD
+**Abstract:** Formal verification has been known for its mathematical rigor in
+achieving software correctness and proving specific properties. Academia has
+been studied challenging issues such as invariance and scalability for decades.
+Have academic advances provided a satisfactory solution for industrial demands
+of guaranteeing code safety and correctness? Based on using the state-of-art
+software verification tool in projects for industrial users, I will analyze the
+gaps between the state-of-art and the industrial needs. Then I will discuss
+potential research directions that bridge the gaps.
 
-**Short bio:** TBD
+**Short bio:** Lewis Young is the CTO of Secregen Inc., which is a startup that
+applies program analysis and formal technology to meet the need for code safety
+and security. He held a Ph.D. in Computer Science at the University of Utah. He
+had worked as a senior and principal engineer in the application security
+field, researching and developing program analysis and verification
+technologies that discover vulnerabilities and prove security properties.
 
 
 ## Registration
