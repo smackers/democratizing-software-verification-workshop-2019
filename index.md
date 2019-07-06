@@ -85,9 +85,47 @@ verification of scientific software.
 
 ### Shuvendu Lahiri (Microsoft Research): *Verified Program Merges: A Perfect Match for Program Verification?*
 
-**Abstract:** TBD
+**Abstract:** Democratizing software verification for mainstream development
+cycle faces at least two fundamental problems: lack of specifications and
+scalability of verification.  Language specific assertions such as memory
+safety are helpful but do not offer confidence related to the functionality of
+a program.  On the other hand, the need to infer program specific invariants,
+modeling the environment of interacting modules and module size makes it hard
+to scale verification.  In this talk, I will motivate that verifying the
+correctness of program merges offers an interesting direction to apply
+(relational) program verification as an integral part of a software development
+cycle.  Even though many programmers rely on 3-way merge tools to integrate
+changes from different branches, such tools can introduce subtle bugs in the
+integration process.
+We describe a notion of semantic conflict freedom (inspired by work of Reps and
+Horwitz from 90s) that serves as a natural relational specification for any
+program merge and ensures that the merged program does not introduce new
+unwanted behaviors.  Next, we show how to verify this property using a novel,
+compositional algorithm that combines lightweight summarization for shared
+program fragments with precise relational reasoning for the modifications.
+Towards this goal, our method uses a 4-way differencing algorithm on abstract
+syntax trees to represent different program versions as edits applied to a
+shared program with holes.  This representation allows our verification
+algorithm to reason about different edits in isolation and compose them to
+obtain an overall proof of conflict freedom.  We will describe some preliminary
+experiments in a tool SafeMerge for Java on real-world merges to show that the
+approach can be promising. 
+Joint work with Isil Dillig and Marcelo Sousa, from a recent work at OOPSLA'18.
 
-**Short bio:** TBD
+**Short bio:** Dr. Shuvendu Lahiri is a Principal Researcher in the Research in
+Software Engineering (RiSE) team at Microsoft Research, Redmond. He is
+interested in rigorous methods for improving the verification, testing and
+code-review of production software. Many of his verification, testing and code
+review tools have been operationalized at Microsoft and shipped externally. His
+current focus lies in differential program verification/analysis and automatic
+software verification tools for systems code and blockchain smart contracts. He
+has worked on logics and decision procedures, algorithms for verifying
+heap-manipulating programs, abstraction techniques for hardware and software in
+the past. Shuvendu holds a PhD from Carnegie Mellon University and a B.Tech.
+from IIT Kharagpur. His work has received distinguished/best paper awards at
+RV, ICSE, 10-year most influential paper at ICSE'17 and ACM SIGDA outstanding
+PhD dissertation award for work on indexed predicate abstraction.
+
  
 ### Yakir Vizel (Princeton University): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn*
 
