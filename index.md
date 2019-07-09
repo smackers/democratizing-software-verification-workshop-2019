@@ -16,7 +16,7 @@ As further discussion topics, we will solicit talks and feedback on benchmarking
 | 11:10-11:50 | Stephen F. Siegel (University of Delaware): *A CIVLized Platform for Verification of Scientific Software* |
 | 11:50-12:30 | Shuvendu Lahiri (Microsoft Research): *Verified Program Merges: A Perfect Match for Program Verification?* |
 | 12:30-14:30 | Lunch   |
-| 14:30-15:10 | Yakir Vizel (Princeton University): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn* |
+| 14:30-15:10 | Yakir Vizel (Technion): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn* |
 | 15:10-15:50 | Subodh Sharma (IIT Delhi): *Analysing Smart Contracts using SeaHorn* |
 | 16:00-16:30 | Coffee break |
 | 16:30-17:10 | Kedar Namjoshi (Nokia Bell Labs): *Designing Self-Certifying Compilers* |
@@ -127,7 +127,7 @@ RV, ICSE, 10-year most influential paper at ICSE'17 and ACM SIGDA outstanding
 PhD dissertation award for work on indexed predicate abstraction.
 
  
-### Yakir Vizel (Princeton University): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn*
+### Yakir Vizel (Technion): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn*
 
 **Abstract:** In this talk we will discuss formal verification of
 information-flow properties in the presence of speculative execution and
