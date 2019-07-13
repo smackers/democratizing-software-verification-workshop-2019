@@ -5,6 +5,9 @@ This workshop aims to bring together the developers of open software verificatio
 
 As further discussion topics, we will solicit talks and feedback on benchmarking issues, reproducibility, input languages, and potential licence issues, all of which are important to have a viable software verification research ecosystem that can be leveraged by both industry and academia.
 
+## Location
+
+The New School, Room 620
 
 ## Program
 
