@@ -96,7 +96,7 @@ data structures. The service team accepted these invariants (and improvements
 to the code discovered during proof construction) into the code base, and they
 are now routinely checked during testing. The proofs themselves are rechecked
 against each push and pull request to the repository as a fundamental step in
-AWS’s continuous-integration workflow. 
+AWS's continuous-integration workflow. 
 
 **Short bio:** Daniel is a Senior Applied Scientist in the AWS Automated
 Reasoning Group. Prior to joining Amazon, he earned a PhD at Princeton, where
