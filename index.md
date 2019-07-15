@@ -104,7 +104,7 @@ he developed a software framework to debug parallel programs. As a postdoc at
 New York University, he designed a tool that automatically isolates and
 explains the cause of crashes in C programs. At Amazon, he has been focusing on
 integrating formal reasoning into the industrial workflow, enabling the
-continuous verification of key AWS software.  When he’s not working, you might
+continuous verification of key AWS software.  When he is not working, you might
 find Daniel in the kitchen making dinner for his family, in a tent camping, or
 volunteering as an EMT with a local ambulance squad.
  
