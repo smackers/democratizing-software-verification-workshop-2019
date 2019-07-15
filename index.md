@@ -17,7 +17,7 @@ The New School, Room 620
 | 10:00-10:30 | Coffee break |
 | 10:30-11:10 | Aaron Tomb (Galois): *The Software Analysis Workbench as a Platform for Verification Research* |
 | 11:10-11:50 | Stephen F. Siegel (University of Delaware): *A CIVLized Platform for Verification of Scientific Software* |
-| 11:50-12:30 | Daniel Schwartz-Narbonne (Amazon): *TBD* |
+| 11:50-12:30 | Daniel Schwartz-Narbonne (Amazon): *Memory Safety and Functional Correctness of AWS C Common* |
 | 12:30-14:30 | Lunch   |
 | 14:30-15:10 | Yakir Vizel (Technion): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn* |
 | 15:10-15:50 | Subodh Sharma (IIT Delhi): *Analysing Smart Contracts using SeaHorn* |
@@ -86,12 +86,27 @@ in the Department of Mathematical Sciences. His research currently focuses on
 model checking, symbolic execution, and deductive approaches for the
 verification of scientific software.
 
-### Daniel Schwartz-Narbonne (Amazon): *TBD*
+### Daniel Schwartz-Narbonne (Amazon): *Memory Safety and Functional Correctness of AWS C Common*
 
-**Abstract:** TBD
+**Abstract:** We proved memory safety properties of key data structures and
+their methods in AWS C Common, a key library used by AWS services like the AWS
+Encryption SDK for C. In the process, we formulated a set of functional
+invariants, and proved that they are preserved by methods in the APIs of these
+data structures. The service team accepted these invariants (and improvements
+to the code discovered during proof construction) into the code base, and they
+are now routinely checked during testing. The proofs themselves are rechecked
+against each push and pull request to the repository as a fundamental step in
+AWS’s continuous-integration workflow. 
 
-**Short bio:** TBD
-
+**Short bio:** Daniel is a Senior Applied Scientist in the AWS Automated
+Reasoning Group. Prior to joining Amazon, he earned a PhD at Princeton, where
+he developed a software framework to debug parallel programs. As a postdoc at
+New York University, he designed a tool that automatically isolates and
+explains the cause of crashes in C programs. At Amazon, he has been focusing on
+integrating formal reasoning into the industrial workflow, enabling the
+continuous verification of key AWS software.  When he’s not working, you might
+find Daniel in the kitchen making dinner for his family, in a tent camping, or
+volunteering as an EMT with a local ambulance squad.
  
 ### Yakir Vizel (Technion): *Efficient Information-Flow Verification under Speculative Execution using SeaHorn*
 
